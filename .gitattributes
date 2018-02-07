@@ -1,2 +1,161 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+Log file open, 02/07/18 10:45:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogGameplayTags: Display: FGameplayTagNativeAdder::FGameplayTagNativeAdder
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1048550085) SRandInit(-1048550085).
+LogTaskGraph: Started task graph with 4 named threads and 7 total threads with 3 sets of task threads.
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin AESHandlerComponent
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin BlueprintContext
+LogPluginManager: Mounting plugin CommonUI
+LogPluginManager: Mounting plugin DiscordRPC
+LogPluginManager: Mounting plugin EpicCMS
+LogPluginManager: Mounting plugin EpicCMSUIFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemMcp
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin Gauntlet
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin LogitechLED
+LogPluginManager: Mounting plugin MatchmakingService
+LogPluginManager: Mounting plugin NetUI
+LogPluginManager: Mounting plugin NVIDIAGfeSDK
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemTwitch
+LogPluginManager: Mounting plugin Oodle
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PurchaseFlow
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Social
+LogPluginManager: Mounting plugin SubtitlesWidgets
+LogPluginManager: Mounting plugin SubtitlesWidgetsEditor
+LogPluginManager: Mounting plugin WinDualShock
+LogPluginManager: Mounting plugin UAC
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin RemoteSession
+LogPluginManager: Mounting plugin EpicGameplayStats
+LogPluginManager: Mounting plugin SIP
+LogPluginManager: Mounting plugin HTTPChunkInstaller
+LogPluginManager: Mounting plugin OnlineGameplayFramework
+LogPluginManager: Mounting plugin Vivox
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AndroidPermission
+LogStreaming: Display: Took  0.096s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - BufferSize = 65536
+LogTemp: Using NVIDIAGfeSDKPlugin version 1.0.0
+LogInit: Build: ++Fortnite+Release-Next-CL-3870737
+LogInit: Engine Version: 4.19.0-3870737+++Fortnite+Release-Next
+LogInit: Compatible Engine Version: 4.19.0-3870737+++Fortnite+Release-Next
+LogInit: Net CL: 3861499
+LogInit: Compiled (64-bit): Feb  2 2018 23:08:35
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Fortnite+Release-Next
+LogInit: Filtered Command Line: -frombe
+LogInit: Base Directory: D:/Fortnite/FortniteGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: false, Async Loading Thread: true
+LogInit: Object subsystem initialized
+LogFortMemory: AppInit - CPU:294.74MB (Peak: 294.74MB)
+[2018.02.07-09.45.47:899][  0]LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2018.02.07-09.45.47:899][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsClient]
+[2018.02.07-09.45.47:900][  0]LogInit: Computer: DESKTOP-LBQL9C2
+[2018.02.07-09.45.47:900][  0]LogInit: User: PC
+[2018.02.07-09.45.47:900][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.02.07-09.45.47:900][  0]LogInit: High frequency timer resolution =3.421876 MHz
+[2018.02.07-09.45.47:900][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.02.07-09.45.47:900][  0]LogMemory: Platform Memory Stats for WindowsClient
+[2018.02.07-09.45.47:900][  0]LogMemory: Process Physical Memory: 295.66 MB used, 295.66 MB peak
+[2018.02.07-09.45.47:900][  0]LogMemory: Process Virtual Memory: 340.83 MB used, 340.83 MB peak
+[2018.02.07-09.45.47:900][  0]LogMemory: Physical Memory: 3051.42 MB used,  5104.72 MB free, 8156.14 MB total
+[2018.02.07-09.45.47:900][  0]LogMemory: Virtual Memory: 490.25 MB used,  5104.72 MB free, 134217728.00 MB total
+[2018.02.07-09.45.49:142][  0]LogInit: Using OS detected language (pl-PL).
+[2018.02.07-09.45.49:142][  0]LogInit: Using OS detected locale (pl-PL).
+[2018.02.07-09.45.49:142][  0]LogPaths: Warning: No paths for game localization data were specifed in the game configuration.
+[2018.02.07-09.45.49:142][  0]LogTextLocalizationManager: No localization for 'pl-PL' exists, so 'en' will be used for the language.
+[2018.02.07-09.45.49:142][  0]LogTextLocalizationManager: No localization for 'pl-PL' exists, so 'en' will be used for the locale.
+[2018.02.07-09.45.49:142][  0]LogInit: Warning: No paths for engine localization data were specifed in the engine configuration.
+[2018.02.07-09.45.49:144][  0]LogTextLocalizationResource: LocRes 'D:/Fortnite/FortniteGame/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/en/OnlineSubsystem.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2018.02.07-09.45.49:145][  0]LogTextLocalizationResource: LocRes 'D:/Fortnite/FortniteGame/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/en/OnlineSubsystemUtils.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2018.02.07-09.45.49:147][  0]LogTextLocalizationResource: LocRes 'D:/Fortnite/FortniteGame/Plugins/Online/NotForLicensees/OnlineSubsystemMcp/Content/Localization/OnlineSubsystemMcp/en/OnlineSubsystemMcp.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2018.02.07-09.45.49:148][  0]LogTextLocalizationResource: LocRes 'D:/Fortnite/FortniteGame/Plugins/Online/OnlineFramework/Content/Localization/OnlineFramework/en/OnlineFramework.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2018.02.07-09.45.49:150][  0]LogTextLocalizationResource: LocRes 'D:/Fortnite/FortniteGame/Plugins/Online/NotForLicensees/PurchaseFlow/Content/Localization/PurchaseFlow/en/PurchaseFlow.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2018.02.07-09.45.49:152][  0]LogTextLocalizationResource: LocRes 'D:/Fortnite/FortniteGame/Plugins/Online/HTTPChunkInstaller/Content/Localization/HTTPChunkInstaller/en/HTTPChunkInstaller.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2018.02.07-09.45.49:154][  0]LogTextLocalizationResource: LocRes 'D:/Fortnite/FortniteGame/Plugins/OnlineGameplayFramework/Content/Localization/OnlineGameplayFramework/en/OnlineGameplayFramework.locres' failed the magic number check! Assuming this is a legacy resource (please re-generate your localization resources!)
+[2018.02.07-09.45.49:154][  0]LogStreaming: Display: Took  0.012s to EndInitTextLocalization.
+[2018.02.07-09.45.49:329][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.07-09.45.49:750][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.02.07-09.45.49:750][  0]LogD3D11RHI:       1977/0/4078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.07-09.45.49:871][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.07-09.45.49:871][  0]LogD3D11RHI:       0/0/4078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.07-09.45.49:871][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.07-09.45.49:876][  0]LogStreaming: Display: Suspending async loading (1)
+[2018.02.07-09.45.49:906][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.07-09.45.49:906][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.07-09.45.49:906][  0]LogWindows: EnumDisplayDevices:
+[2018.02.07-09.45.49:906][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.02.07-09.45.49:906][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.02.07-09.45.49:906][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.02.07-09.45.49:906][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.02.07-09.45.49:907][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.07-09.45.49:907][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.02.07-09.45.49:907][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.07-09.45.49:907][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.07-09.45.50:152][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.02.07-09.45.50:152][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.07-09.45.50:176][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.07-09.45.50:177][  0]LogStreaming: Display: Resuming async loading (0)
+[2018.02.07-09.45.50:187][  0]LogShaderLibrary: Display: Using ../../../FortniteGame/Content/ShaderArchive-PCD3D_SM5.ushaderbytecode for material shader code. Total 56170 unique shaders.
+[2018.02.07-09.45.50:187][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library
+[2018.02.07-09.45.56:527][  0]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2018.02.07-09.45.56:527][  0]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 5325078528
+	 AvailableVirtual 140725753507840
+	     UsedPhysical 355917824
+	 PeakUsedPhysical 4281753600
+	      UsedVirtual 11419893760
+	  PeakUsedVirtual 22421348352
+[2018.02.07-09.45.56:527][  0]Allocator Stats for binned2 are not in this build set BINNED2_ALLOCATOR_STATS 1 in MallocBinned2.cpp
+[2018.02.07-09.45.56:527][  0]LogWindows: Windows GetLastError: Operacja ukończona pomyślnie. (0)
+[2018.02.07-09.46.56:527][  0]LogWindows: Error: === Critical error: ===
+[2018.02.07-09.46.56:527][  0]LogWindows: Error: 
+[2018.02.07-09.46.56:527][  0]LogWindows: Error: Fatal error: [File:Unknown] [Line: 190] 
+[2018.02.07-09.46.56:527][  0]LogWindows: Error: Ran out of memory allocating 10979966976 bytes with alignment 0
+[2018.02.07-09.46.56:527][  0]LogWindows: Error: 
+[2018.02.07-09.46.56:527][  0]LogWindows: Error: 
+[2018.02.07-09.46.56:527][  0]LogWindows: Error: 
+[2018.02.07-09.46.56:533][  0]LogExit: Executing StaticShutdownAfterError
+[2018.02.07-09.46.56:535][  0]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.02.07-09.46.56:544][  0]Log file closed, 02/07/18 10:46:56
